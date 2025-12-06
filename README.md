@@ -60,14 +60,14 @@ cd mess-menu-rating-predictor
 ```
 pip install scikit-learn pandas matplotlib
 ```
-## Model Decision Logic
+## 🧠 Model Decision Logic
 ```python
 if predicted_rating > 3:
   decision = “Eat in mess 👍”
 else:
   decision = “Eat outside 👎”
 ```
-## Future Improvements
+## ✨ Future Improvements
 - Add more weekly menus for better accuracy
 - Build a Streamlit web interface
 - Add nutritional features (protein, calories, etc.)
