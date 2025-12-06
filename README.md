@@ -57,9 +57,9 @@ git clone https://github.com/ayushraj1326/mess-menu-rating-predictor.git
 cd mess-menu-rating-predictor
 ```
 ## 2. Install dependencies
-
-- pip install scikit-learn pandas matplotlib
-
+```
+pip install scikit-learn pandas matplotlib
+```
 ## Model Decision Logic
 ```python
 if predicted_rating > 3:
