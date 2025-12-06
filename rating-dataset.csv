@@ -1,0 +1,15 @@
+entry_id,day_of_week,is_lunch,is_dinner,is_weekend,special_dish,num_items,has_desert,is_paneer,is_chicken,spicy_level,variety_score,rating
+1,Monday,1,0,0,0,7,0,0,0,2,3,2
+2,Monday,0,1,0,0,6,1,0,0,2,4,3
+3,Tuesday,1,0,0,1,7,0,1,0,3,4,4
+4,Tuesday,0,1,0,1,5,0,1,0,3,4,4
+5,Wednesday,1,0,0,1,7,0,0,1,3,4,4
+6,Wednesday,0,1,0,1,6,0,1,1,4,4,4
+7,Thursday,1,0,0,0,7,0,0,0,2,3,3
+8,Thursday,0,1,0,0,5,1,0,0,3,3,3
+9,Friday,1,0,0,0,6,0,0,0,3,3,3
+10,Friday,0,1,0,1,5,0,1,1,4,4,5
+11,Saturday,1,0,1,0,6,0,0,0,3,3,2
+12,Saturday,0,1,1,1,5,0,1,1,4,3,3
+13,Sunday,1,0,1,0,7,0,0,0,2,3,3
+14,Sunday,0,1,1,1,5,1,1,1,4,4,4
